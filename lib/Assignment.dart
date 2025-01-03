@@ -79,7 +79,7 @@ class StudentManagementSystem {
 
     print("Teacher Information: \n");
     teacher.displayRole();
-    print("Name: ${teacher.name}\nAge: ${teacher.age} \nAddress:${teacher.address} ");
+    print("Name: ${teacher.name}\nAge : ${teacher.age} \nAddress:${teacher.address} ");
     teacher.displayCoursesTaught();
   }
 }
